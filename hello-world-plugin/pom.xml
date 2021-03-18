@@ -8,7 +8,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 <properties>
   <maven.compiler.source>1.8</maven.compiler.source>
   <maven.compiler.target>1.8</maven.compiler.target>
-  <elasticsearch.version>6.4.1</elasticsearch.version>
+  <elasticsearch.version>6.8.13</elasticsearch.version>
   <maven.compiler.plugin.version>3.5.1</maven.compiler.plugin.version>
   <elasticsearch.assembly.descriptor>C:/Users/MY/eclipse-workspace/hello-world-plugin/src/main/assemblies/plugin.xml</elasticsearch.assembly.descriptor>
 </properties>
